@@ -1,0 +1,10 @@
+C:\Users\muhammad.diab\Desktop\harjotus2\harjotus2\obj\Debug\harjotus2.csprojAssemblyReference.cache
+C:\Users\muhammad.diab\Desktop\harjotus2\harjotus2\obj\Debug\harjotus2.Form1.resources
+C:\Users\muhammad.diab\Desktop\harjotus2\harjotus2\obj\Debug\harjotus2.Properties.Resources.resources
+C:\Users\muhammad.diab\Desktop\harjotus2\harjotus2\obj\Debug\harjotus2.csproj.GenerateResource.cache
+C:\Users\muhammad.diab\Desktop\harjotus2\harjotus2\obj\Debug\harjotus2.csproj.CoreCompileInputs.cache
+C:\Users\muhammad.diab\Desktop\harjotus2\harjotus2\bin\Debug\harjotus2.exe.config
+C:\Users\muhammad.diab\Desktop\harjotus2\harjotus2\bin\Debug\harjotus2.exe
+C:\Users\muhammad.diab\Desktop\harjotus2\harjotus2\bin\Debug\harjotus2.pdb
+C:\Users\muhammad.diab\Desktop\harjotus2\harjotus2\obj\Debug\harjotus2.exe
+C:\Users\muhammad.diab\Desktop\harjotus2\harjotus2\obj\Debug\harjotus2.pdb
