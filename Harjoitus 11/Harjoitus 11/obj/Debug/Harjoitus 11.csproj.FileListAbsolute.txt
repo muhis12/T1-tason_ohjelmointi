@@ -1,0 +1,10 @@
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Harjoitus 11\Harjoitus 11\bin\Debug\Harjoitus 11.exe.config
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Harjoitus 11\Harjoitus 11\bin\Debug\Harjoitus 11.exe
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Harjoitus 11\Harjoitus 11\bin\Debug\Harjoitus 11.pdb
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Harjoitus 11\Harjoitus 11\obj\Debug\Harjoitus 11.csproj.AssemblyReference.cache
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Harjoitus 11\Harjoitus 11\obj\Debug\Harjoitus_11.NopanHeitto.resources
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Harjoitus 11\Harjoitus 11\obj\Debug\Harjoitus_11.Properties.Resources.resources
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Harjoitus 11\Harjoitus 11\obj\Debug\Harjoitus 11.csproj.GenerateResource.cache
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Harjoitus 11\Harjoitus 11\obj\Debug\Harjoitus 11.csproj.CoreCompileInputs.cache
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Harjoitus 11\Harjoitus 11\obj\Debug\Harjoitus 11.exe
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Harjoitus 11\Harjoitus 11\obj\Debug\Harjoitus 11.pdb

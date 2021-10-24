@@ -1,0 +1,10 @@
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Harjoitus 1\bin\Debug\Harjoitus 1.exe.config
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Harjoitus 1\bin\Debug\Harjoitus 1.exe
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Harjoitus 1\bin\Debug\Harjoitus 1.pdb
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Harjoitus 1\obj\Debug\Harjoitus 1.csproj.AssemblyReference.cache
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Harjoitus 1\obj\Debug\Harjoitus_1.harjoitus1.resources
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Harjoitus 1\obj\Debug\Harjoitus_1.Properties.Resources.resources
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Harjoitus 1\obj\Debug\Harjoitus 1.csproj.GenerateResource.cache
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Harjoitus 1\obj\Debug\Harjoitus 1.csproj.CoreCompileInputs.cache
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Harjoitus 1\obj\Debug\Harjoitus 1.exe
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Harjoitus 1\obj\Debug\Harjoitus 1.pdb
