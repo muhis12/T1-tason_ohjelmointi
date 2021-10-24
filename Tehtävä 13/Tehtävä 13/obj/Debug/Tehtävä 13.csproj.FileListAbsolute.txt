@@ -1,0 +1,10 @@
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Tehtävä 13\Tehtävä 13\bin\Debug\Tehtävä 13.exe.config
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Tehtävä 13\Tehtävä 13\bin\Debug\Tehtävä 13.exe
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Tehtävä 13\Tehtävä 13\bin\Debug\Tehtävä 13.pdb
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Tehtävä 13\Tehtävä 13\obj\Debug\Tehtävä 13.csproj.AssemblyReference.cache
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Tehtävä 13\Tehtävä 13\obj\Debug\Tehtävä_13.SuosikkiForm.resources
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Tehtävä 13\Tehtävä 13\obj\Debug\Tehtävä_13.Properties.Resources.resources
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Tehtävä 13\Tehtävä 13\obj\Debug\Tehtävä 13.csproj.GenerateResource.cache
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Tehtävä 13\Tehtävä 13\obj\Debug\Tehtävä 13.csproj.CoreCompileInputs.cache
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Tehtävä 13\Tehtävä 13\obj\Debug\Tehtävä 13.exe
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Tehtävä 13\Tehtävä 13\obj\Debug\Tehtävä 13.pdb
