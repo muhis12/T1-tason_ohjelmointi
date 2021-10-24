@@ -1,0 +1,10 @@
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Muistiotehtävä\Muistiotehtävä\bin\Debug\Muistiotehtävä.exe.config
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Muistiotehtävä\Muistiotehtävä\bin\Debug\Muistiotehtävä.exe
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Muistiotehtävä\Muistiotehtävä\bin\Debug\Muistiotehtävä.pdb
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Muistiotehtävä\Muistiotehtävä\obj\Debug\Muistiotehtävä.csproj.AssemblyReference.cache
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Muistiotehtävä\Muistiotehtävä\obj\Debug\Muistiotehtävä.NotepadForm.resources
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Muistiotehtävä\Muistiotehtävä\obj\Debug\Muistiotehtävä.Properties.Resources.resources
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Muistiotehtävä\Muistiotehtävä\obj\Debug\Muistiotehtävä.csproj.GenerateResource.cache
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Muistiotehtävä\Muistiotehtävä\obj\Debug\Muistiotehtävä.csproj.CoreCompileInputs.cache
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Muistiotehtävä\Muistiotehtävä\obj\Debug\Muistiotehtävä.exe
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Muistiotehtävä\Muistiotehtävä\obj\Debug\Muistiotehtävä.pdb

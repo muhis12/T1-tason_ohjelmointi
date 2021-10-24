@@ -1,0 +1,10 @@
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Roomalaiset numerot\Roomalaiset numerot\bin\Debug\Roomalaiset numerot.exe.config
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Roomalaiset numerot\Roomalaiset numerot\bin\Debug\Roomalaiset numerot.exe
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Roomalaiset numerot\Roomalaiset numerot\bin\Debug\Roomalaiset numerot.pdb
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Roomalaiset numerot\Roomalaiset numerot\obj\Debug\Roomalaiset numerot.csproj.AssemblyReference.cache
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Roomalaiset numerot\Roomalaiset numerot\obj\Debug\Roomalaiset_numerot.RoomalaisiksiForm.resources
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Roomalaiset numerot\Roomalaiset numerot\obj\Debug\Roomalaiset_numerot.Properties.Resources.resources
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Roomalaiset numerot\Roomalaiset numerot\obj\Debug\Roomalaiset numerot.csproj.GenerateResource.cache
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Roomalaiset numerot\Roomalaiset numerot\obj\Debug\Roomalaiset numerot.csproj.CoreCompileInputs.cache
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Roomalaiset numerot\Roomalaiset numerot\obj\Debug\Roomalaiset numerot.exe
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Roomalaiset numerot\Roomalaiset numerot\obj\Debug\Roomalaiset numerot.pdb
