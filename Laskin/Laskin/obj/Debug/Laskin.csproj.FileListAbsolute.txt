@@ -1,0 +1,9 @@
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Laskin\Laskin\bin\Debug\Laskin.exe.config
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Laskin\Laskin\bin\Debug\Laskin.exe
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Laskin\Laskin\bin\Debug\Laskin.pdb
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Laskin\Laskin\obj\Debug\Laskin.Form1.resources
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Laskin\Laskin\obj\Debug\Laskin.Properties.Resources.resources
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Laskin\Laskin\obj\Debug\Laskin.csproj.GenerateResource.cache
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Laskin\Laskin\obj\Debug\Laskin.csproj.CoreCompileInputs.cache
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Laskin\Laskin\obj\Debug\Laskin.exe
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Laskin\Laskin\obj\Debug\Laskin.pdb

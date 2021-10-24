@@ -1,0 +1,10 @@
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\LukujenJarjestys\LukujenJarjestys\bin\Debug\LukujenJarjestys.exe.config
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\LukujenJarjestys\LukujenJarjestys\bin\Debug\LukujenJarjestys.exe
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\LukujenJarjestys\LukujenJarjestys\bin\Debug\LukujenJarjestys.pdb
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\LukujenJarjestys\LukujenJarjestys\obj\Debug\LukujenJarjestys.csproj.AssemblyReference.cache
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\LukujenJarjestys\LukujenJarjestys\obj\Debug\LukujenJarjestys.LukujenJarjestys.resources
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\LukujenJarjestys\LukujenJarjestys\obj\Debug\LukujenJarjestys.Properties.Resources.resources
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\LukujenJarjestys\LukujenJarjestys\obj\Debug\LukujenJarjestys.csproj.GenerateResource.cache
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\LukujenJarjestys\LukujenJarjestys\obj\Debug\LukujenJarjestys.csproj.CoreCompileInputs.cache
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\LukujenJarjestys\LukujenJarjestys\obj\Debug\LukujenJarjestys.exe
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\LukujenJarjestys\LukujenJarjestys\obj\Debug\LukujenJarjestys.pdb
