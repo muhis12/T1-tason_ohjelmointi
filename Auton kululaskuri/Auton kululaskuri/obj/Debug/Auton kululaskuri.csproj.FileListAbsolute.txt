@@ -1,0 +1,10 @@
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Auton kululaskuri\Auton kululaskuri\bin\Debug\Auton kululaskuri.exe.config
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Auton kululaskuri\Auton kululaskuri\bin\Debug\Auton kululaskuri.exe
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Auton kululaskuri\Auton kululaskuri\bin\Debug\Auton kululaskuri.pdb
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Auton kululaskuri\Auton kululaskuri\obj\Debug\Auton kululaskuri.csproj.AssemblyReference.cache
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Auton kululaskuri\Auton kululaskuri\obj\Debug\Auton_kululaskuri.KustannusForm.resources
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Auton kululaskuri\Auton kululaskuri\obj\Debug\Auton_kululaskuri.Properties.Resources.resources
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Auton kululaskuri\Auton kululaskuri\obj\Debug\Auton kululaskuri.csproj.GenerateResource.cache
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Auton kululaskuri\Auton kululaskuri\obj\Debug\Auton kululaskuri.csproj.CoreCompileInputs.cache
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Auton kululaskuri\Auton kululaskuri\obj\Debug\Auton kululaskuri.exe
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Auton kululaskuri\Auton kululaskuri\obj\Debug\Auton kululaskuri.pdb
