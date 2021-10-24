@@ -1,0 +1,10 @@
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Vastauslomake\Vastauslomake\bin\Debug\Vastauslomake.exe.config
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Vastauslomake\Vastauslomake\bin\Debug\Vastauslomake.exe
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Vastauslomake\Vastauslomake\bin\Debug\Vastauslomake.pdb
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Vastauslomake\Vastauslomake\obj\Debug\Vastauslomake.csproj.AssemblyReference.cache
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Vastauslomake\Vastauslomake\obj\Debug\Vastauslomake.VastauslomakeForm.resources
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Vastauslomake\Vastauslomake\obj\Debug\Vastauslomake.Properties.Resources.resources
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Vastauslomake\Vastauslomake\obj\Debug\Vastauslomake.csproj.GenerateResource.cache
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Vastauslomake\Vastauslomake\obj\Debug\Vastauslomake.csproj.CoreCompileInputs.cache
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Vastauslomake\Vastauslomake\obj\Debug\Vastauslomake.exe
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Vastauslomake\Vastauslomake\obj\Debug\Vastauslomake.pdb
