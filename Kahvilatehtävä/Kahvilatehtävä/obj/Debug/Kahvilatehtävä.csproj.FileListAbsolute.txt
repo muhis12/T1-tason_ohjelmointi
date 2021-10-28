@@ -1,0 +1,10 @@
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Kahvilatehtävä\Kahvilatehtävä\bin\Debug\Kahvilatehtävä.exe.config
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Kahvilatehtävä\Kahvilatehtävä\bin\Debug\Kahvilatehtävä.exe
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Kahvilatehtävä\Kahvilatehtävä\bin\Debug\Kahvilatehtävä.pdb
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Kahvilatehtävä\Kahvilatehtävä\obj\Debug\Kahvilatehtävä.csproj.AssemblyReference.cache
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Kahvilatehtävä\Kahvilatehtävä\obj\Debug\Kahvilatehtävä.ruokalistaForm.resources
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Kahvilatehtävä\Kahvilatehtävä\obj\Debug\Kahvilatehtävä.Properties.Resources.resources
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Kahvilatehtävä\Kahvilatehtävä\obj\Debug\Kahvilatehtävä.csproj.GenerateResource.cache
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Kahvilatehtävä\Kahvilatehtävä\obj\Debug\Kahvilatehtävä.csproj.CoreCompileInputs.cache
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Kahvilatehtävä\Kahvilatehtävä\obj\Debug\Kahvilatehtävä.exe
+C:\Users\Justus\Desktop\Uusi kansio\T1-tason_ohjelmointi\Kahvilatehtävä\Kahvilatehtävä\obj\Debug\Kahvilatehtävä.pdb
